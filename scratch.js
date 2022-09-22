@@ -19,3 +19,9 @@
 }
 
 const someVariableName = 'Michigan Wolverines'
+
+const fn1 = string => {
+   // some comment here
+
+   
+}
